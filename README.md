@@ -3,6 +3,10 @@ Stackin (simple UI idea)
 
 An idea I've had when I tried to come up with some simple, appealing and compact way to show parsed textual information.
 
+##### Live Demo:
+
+Current HN Top 100 stories - <a target="blank" href="http://jsfiddle.net/hp499ejL/">http://jsfiddle.net/hp499ejL/</a>
+
 ##### Screenshot:
 
 ![Alt text](https://raw.github.com/QuteBits/onScriptogram/master/img/07-01.jpg "Stackin Look")
