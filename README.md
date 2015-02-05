@@ -1,7 +1,7 @@
-Stackin (simple UI idea)
+Stackin (responsive UI concept)
 ========================
 
-An idea I've had when I tried to come up with some simple, appealing and compact way to show parsed textual information.
+An idea I've had when I tried to come up with some responsive, simple, appealing and compact way to show parsed textual information.
 
 ##### Live Demo:
 
